@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872312180347",
+    "firebase_url": "https://emilio1.firebaseio.com",
+    "project_id": "emilio1",
+    "storage_bucket": "emilio1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872312180347:android:0995831f8fce9e88719cde",
+        "android_client_info": {
+          "package_name": "com.example.emilio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872312180347-2uvil2bb66g54sr42km048p7h349dden.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emilio",
+            "certificate_hash": "172c8e48bb347d5569fa1013892e43dd28d9438f"
+          }
+        },
+        {
+          "client_id": "872312180347-eojc7mnv85n9pbk4kvhjspk9l36gvabt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDFQIbd5lmBsEn0CAZCPc191TaVIDzFPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872312180347-eojc7mnv85n9pbk4kvhjspk9l36gvabt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
